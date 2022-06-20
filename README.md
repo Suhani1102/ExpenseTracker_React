@@ -10,7 +10,7 @@ Hit the Add Expense button.<br/>
 <img src="./public/Expense_tracker2.png" alt="Expense_tracker"/>
 
 Here's the updated list with chart representation of annual spendings.
-<img src="./public/Expense_tracker3.png" alt="Expense_tracker" height="75%" width="65%"/>
+<img src="./public/Expense_tracker3.png" alt="Expense_tracker" style="width:657px !important"/>
 
 
 
