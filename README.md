@@ -3,7 +3,16 @@
 This app helps you to track your expenses. You can add a new expense by selecting the date, it will be updated in the list.
 To check your expenses select the year you wish to view. By default current year is selected.
 
-<img src="./public/Expense_tracker.png" alt="Expense_tracker"/>
+<img src="./public/Expense_tracker1.png" alt="Expense_tracker"/>
+
+Click on Add New Expense button to add new spendings data. Enter the title, amount spend and the date for which you want to add data. <br/>
+Hit the Add Expense button.<br/>
+<img src="./public/Expense_tracker2.png" alt="Expense_tracker"/>
+
+Here's the updated list with chart representation of annual spendings.
+<img src="./public/Expense_tracker3.png" alt="Expense_tracker" height="75%" width="65%"/>
+
+
 
 <h1>[Getting Started]</h1>
     <h3>Execution</h3>
