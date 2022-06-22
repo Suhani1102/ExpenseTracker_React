@@ -19,7 +19,7 @@ Here's the updated list with chart representation of annual spendings.
     <p>If you want to run our project in your local machine</p>
     <p>Follow the given steps:</p>
     <ul>
-        <li>Clone our respository <a href="https://github.com/Suhani1102/ExpenseTracker_React.git">https://github.com/Suhani1102/ExpenseTracker_React.git</a></li>
+        <li>Clone our respository <a href="https://github.com/Suhani1102/expense-tracker-react.git">https://github.com/Suhani1102/expense-tracker-react.git</a></li>
         <li>Open our code in VS code</li>
         <li>On your terminal just write the command npm install</li>
         <li>Initialize the server by writing 'npm run server' on Terminal</li>
